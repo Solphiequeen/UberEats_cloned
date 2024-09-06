@@ -7,7 +7,7 @@ body{
 } /*This ensures that there are no white lines by the side of the background image, ensuring that the background is full screen*/
 header {
     height: 100vh;
-    background-image: url("/images/ubereats_background.png");
+    background-image: url(/UberEats_cloned/images/ubereats_background.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
