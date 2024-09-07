@@ -90,7 +90,7 @@ header {
     font-family: Helvetica;
 } 
 #location_logo{
-    background-image: url(/images/location-dot.svg);
+    background-image: url(/UberEats_cloned/images/location-dot.svg);
     background-repeat: no-repeat;
     background-size: 15px;
     background-position: 2vh;
@@ -105,7 +105,7 @@ header {
     width: 250px;
     height: 50px;
     margin-top: 10px;
-    background-image: url(/images/clock-solid.svg);
+    background-image: url(/UberEats_cloned/images/clock-solid.svg);
     background-repeat: no-repeat;
     background-size: 20px;
     background-position: 10px 10px;
